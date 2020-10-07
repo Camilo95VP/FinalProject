@@ -1,0 +1,66 @@
+h1 {
+    font-family: 'Baloo Tammudu 2';
+    margin-top: 50px;
+}
+
+.panel-heading {
+    margin-top: 10px;
+}
+
+#user1 {
+    margin-left: 50px;
+}
+
+#user{
+    margin-right: 30px;
+}
+
+#grado {
+    margin-left: 30px;
+}
+
+#mini {
+    margin-left: 30px;
+    width: 60px;
+    height: 80px;
+}
+
+.media{
+    display: flex;
+    justify-content: center;
+}
+
+.button2 {
+    display: flex;
+    
+}
+
+#prod {
+    margin: 20px;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#column {
+    display: block;
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 0.75rem;
+}
+
+.media{
+    flex-wrap: wrap;
+}
+.image img {
+    display: block;
+    height: auto;
+    width: 100%;
+    margin-left: 0 auto;
+    margin-left: 26.5px;
+}

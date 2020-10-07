@@ -1,0 +1,167 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+/* #register {
+  background-color: rgb(0, 0, 26);
+} */
+
+.head {
+  display: block;
+  margin: auto;
+  width: 250px;
+  border-radius: 50%;
+  background-color: cornsilk;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+#title-registrar {
+  font-size: 40px;
+  margin-top: 2vh;
+  color: #ffff;
+  font-family: "Baloo Tammudu 2";
+  font-weight: 700;
+}
+
+#correo {
+  margin-top: 8vh;
+  margin-bottom: 1.5vh;
+  font-weight: 700;
+  font-family: "Baloo Tammudu 2";
+  color: #363636;
+}
+
+.contraseña {
+  margin-top: 4vh;
+  margin-bottom: 1.5vh;
+  text-align: center;
+  justify-content: center;
+  font-weight: 700;
+  font-family: "Baloo Tammudu 2";
+  color: #363636;
+}
+
+#input1 {
+  margin-top: -0.5vh;
+  width: 40vh;
+}
+
+#input2 {
+  margin-bottom: -1vh;
+  width: 40vh;
+}
+
+.control1 {
+  margin-top: 3.5rem;
+  font-weight: 700;
+  font-family: "Baloo Tammudu 2";
+  color: #ffffff;
+}
+
+#boton {
+  margin-top: 3vh;
+  width: 20vh;
+  background-color: rgb(0, 221, 221);
+}
+.option p {
+  color: #ffffff;
+  font-family: "Baloo Tammudu 2";
+}
+
+#hola3 {
+  margin-top: 20px;
+  color: #ffffff;
+}
+
+.checkbox input,
+.radio input {
+  cursor: pointer;
+  margin-right: 10px;
+  margin-left: 30px;
+}
+#user{
+  margin-top: 1px;
+}
+
+@media (max-width: 1080px) {
+  #register {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+@media (max-width: 510px){
+  #email {
+    width: 40vh;
+  }
+  
+  #password {
+    width: 40vh;
+  }
+}
+@media (max-width: 440px){
+  #user{
+    margin-left: 1vh;
+  }
+  #lock{
+    margin-left: 1vh;
+  }
+  #email {
+    margin-right: 8vh;
+  }
+  
+  #password {
+    margin-right: 8vh;
+  }
+}
+@media (max-width: 408px){
+  #title-registrar{
+    font-size: 30px;
+  }
+  #email {
+    margin-right: 50px;
+  }
+  
+  #password {
+    margin-right: 50px;
+  }
+  #user{
+    margin-left: 15px;
+  }
+  #lock{
+    margin-left: 15px;
+  }
+}
+@media (max-width: 380px){
+  #email {
+    width: 308px;
+    margin-right: 85px;
+  }
+  
+  #password {
+    width: 308px;
+    margin-right: 85px;
+  }
+  #user{
+    margin-left: 1px;
+  }
+  #lock{
+    margin-left: 1px;
+  }
+  .field.control.has-icons-left {
+    width: 190px;
+    margin: auto;
+}
+#inputDocente{
+  margin-left: 40px;
+}
+.checkbox, .radio {
+  margin-right: 29px;
+}
+#label {
+  height: 1px;
+} 
+#boton{
+  width: 185px;
+}
+}

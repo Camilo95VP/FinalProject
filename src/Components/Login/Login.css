@@ -1,0 +1,91 @@
+#column1 {
+  background-color: #030c2a;
+}
+
+#cabeza {
+  display: block;
+  margin: auto;
+  width: 250px;
+  border-radius: 50%;
+  background-color: cornsilk;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+#label {
+  margin-top: 20px;
+  height: 10px;
+  color: #ffffff;
+}
+
+#label1{
+  color: #ffffff;
+}
+
+#input {
+  width: 500px;
+  margin-bottom: 10px;
+}
+
+.field.control.has-icons-left {
+  width: 400px;
+  margin: auto;
+}
+
+.control {
+  margin-top: 10px;
+}
+
+.button {
+  margin-top: 20px;
+  width: 180px;
+}
+
+#link {
+  margin-top: 50px;
+}
+
+#column2 {
+  background-color: white;
+  border: solid black 1px;
+}
+
+.robot {
+  width: 200px;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+#h1 {
+  font-family: "Baloo Tammudu 2";
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#h3 {
+  font-family: "Baloo Tammudu 2";
+  margin-bottom: 50px;
+}
+
+#icons-login i {
+  margin-top: 50px;
+}
+
+#icons-login a {
+  margin: 60px;
+  font-size: 60px;
+  color: black;
+}
+
+#icons-login a:hover {
+  color: aquamarine;
+}
+
+#active {
+  width: 100px;
+  font-size: 40px;
+}
+
+#active a:hover {
+  color: aquamarine;
+}

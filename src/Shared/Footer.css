@@ -1,0 +1,25 @@
+.footer {
+    background-color: #030C2A;
+    color: white;
+}
+
+#icons i{
+    margin-top: 50px;
+}
+
+#icons a{
+    margin: 60px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#icons a:hover {
+    color: aquamarine;
+}
+@media (max-width: 580px){
+#envelope{
+    position: relative;
+    bottom: 50px;
+}
+}

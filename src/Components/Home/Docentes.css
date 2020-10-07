@@ -1,0 +1,22 @@
+#container1{
+    /* background-color: rgb(204, 204, 204); */
+    color: black;
+    margin-top: 8vh;
+    margin-left: 10vh;
+    margin-right: 10vh
+}
+
+div h2{
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+.info-title{
+    margin-top: 2rem;
+    font-size: 25px;
+}
+
+#info {
+    text-align: left;
+    background-color:  rgb(204, 204, 204);
+}

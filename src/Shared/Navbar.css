@@ -1,0 +1,20 @@
+#user{
+    margin-top: -15px;
+}
+#user1{
+    margin-top: 20px;
+}
+#mini{
+    margin-top: 5px;
+}
+#grado{
+    margin-top: 20px;
+}
+.buttons .button {
+    margin-bottom: 27px;
+}
+@media (max-width: 1024px){
+    #mini{
+        margin-top: 25px;
+    }
+}
